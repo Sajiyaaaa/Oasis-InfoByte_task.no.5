@@ -1,2 +1,2 @@
 # Oasis-InfoByte_task.no.5
-Python Programming Internship
+Create a basic text-based chat application in Python where two users can exchange messages in real-time using the command line. Implement a simple client-server model for message exchange.
